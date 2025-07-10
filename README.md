@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there! I'm Damagedakuma
 
-<!--
-**Damagedakuma/damagedakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Front-End Developer
 
-Here are some ideas to get you started:
+### 📌 About Me:
+- 🎂 **Age:** 20  
+- 📍 **Location:** Turkey  
+- 🖥️ **Expertise:** Modern Front-End Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damagedakuma&show_icons=true&theme=tokyonight)
+
+### 🚀 My Websites:
+
+link: https://watchani.me
+
+### ⚡ Tech Stack:
+![Tech Stack](https://skillicons.dev/icons?i=js,html,css,nuxt,prisma,vue,express,vite,redis,pinia,nodejs,tailwind,postgres,postman,git,github)
+
+### 📊 GitHub Activity:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damagedakuma&layout=compact&theme=tokyonight) 
+
+### 📈 Profile Views:
+![Profile Views](https://count.getloli.com/get/@damagedakuma?theme=original-new)
